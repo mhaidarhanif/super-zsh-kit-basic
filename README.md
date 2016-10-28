@@ -13,7 +13,7 @@ git clone --recursive https://github.com/Eriner/zim.git ${ZDOTDIR:-${HOME}}/.zim
 2. Set our shell to zsh.
 
 ```sh
-chsh -s =zsh
+chsh -s /bin/zsh
 ```
 
 3. Initialize the configs.
